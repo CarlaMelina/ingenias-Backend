@@ -1,0 +1,21 @@
+{
+  "name": "books-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+        "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js --ignore src/books.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+ "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "nodemon": "^1.11.0",
+    "uuid": "^3.3.3"
+  }
+}
