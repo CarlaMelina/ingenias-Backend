@@ -1,0 +1,23 @@
+[
+ {
+  "name": "Test",
+  "email": "test@test.com",
+  "password": "$2b$10$EpaPZyIWU4PZDyFcAFQj2OsSvrNh/MhBa27Zzx8kGE5SPMb4YCwlq",
+  "image": "user-1578944461157.png",
+  "id": 1
+ },
+ {
+  "name": "test",
+  "email": "testtesttest@test.com",
+  "password": "$2b$10$EpaPZyIWU4PZDyFcAFQj2OsSvrNh/MhBa27Zzx8kGE5SPMb4YCwlq",
+  "image": "user-1578949183440.png",
+  "id": 2
+ },
+ {
+  "name": "janet",
+  "email": "admin@admin.com",
+  "password": "$2b$10$H86BcjbG4UXuT2OH9ZND2Ova7eyZwzzDs6WAub/S8v79SebcITOLW",
+  "image": "user-1690490152632.jpg",
+  "id": 3
+ }
+]

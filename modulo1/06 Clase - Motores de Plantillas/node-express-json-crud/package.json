@@ -1,0 +1,25 @@
+{
+  "name": "dh-node-express-json-crud",
+  "version": "1.0.0",
+  "description": "A continuación se describe el proceso de desarrollo de manera resumida.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }, 
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "method-override": "^3.0.0",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+   
+}
