@@ -53,6 +53,7 @@ Los archivos EJS se guardan con el extensión de archivo .ejs[EJS - NPM LIBRARY]
 * Un UUID es un identificador único; personalmente lo uso para generar cadenas aleatorias y criptográficamente seguras.[UUID - NPM LIBRARY](https://www.npmjs.com/package/uuid) 
 
 ### Comenzamos a completar nuestros archivos
+````
 .books-express
 ├── package.json
 └── src
@@ -74,7 +75,7 @@ Los archivos EJS se guardan con el extensión de archivo .ejs[EJS - NPM LIBRARY]
             ├── 404.ejs
             ├── index.ejs
             └── new-book.ejs
-
+````
 # Express Books
 
 Express Books es una Web Application para guardar la lista de tus libros favoritos. Toda esta infornacion se alojara en Json file.
